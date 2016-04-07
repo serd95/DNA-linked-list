@@ -1,0 +1,7 @@
+VERSION 1.0
+
+This is the version submitted to Dr. Manaris as a homework assignment to demonstrate 
+knowledge of linked lists. I found the assignment interesting and have decided to 
+further modify the code. Version 1.0 uses a somewhat flawed and unintutive menu system
+that I plan on scrapping completely. I also plan on scrapping most of the methods in the
+nested class.
